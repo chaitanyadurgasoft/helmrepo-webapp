@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  webapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-04T16:19:43.6248569+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a1c1c9d3c4bbade79aa65681b39c041bda5054a9d9c4157dc1312b6ed8319826
+    maintainers:
+    - email: chaitanya@gmail.com
+      name: chaitanya
+    name: webapp
+    type: application
+    urls:
+    - https://github.com/chaitanyadurgasoft/helmrepo-webapp/webapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-04T16:19:43.6147828+05:30"
